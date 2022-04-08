@@ -1,0 +1,24 @@
+body{
+    color:rgb(15, 20, 25);
+}
+.navegacao a{
+    color: rgb(15, 20, 25);
+    text-decoration: none;
+}
+.conteiner:hover{
+    background-color: rgba(15, 25, 20, 0.1);
+    border-radius: 20px;
+}
+.cores span{
+    color:  rgb(15, 20, 25);
+    font-weight: bold;
+}
+.select {
+    list-style: none;
+}
+.cores {
+    color: rgb(83, 100, 113);
+}
+.cores:hover{
+    border-bottom: 2px solid black;
+}
