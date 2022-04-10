@@ -9,16 +9,69 @@ body{
     background-color: rgba(15, 25, 20, 0.1);
     border-radius: 20px;
 }
+.nome h4,.nometw{
+    color: rgb(15, 20, 25);
+}
+.nomeperfil h5,.date{
+    color:  rgb(83, 100, 113);
+}
+.biografia p{
+    color: rgb(15, 20, 25);
+}
 .cores span{
     color:  rgb(15, 20, 25);
     font-weight: bold;
 }
 .select {
-    list-style: none;
+    list-style: none;  
+
 }
+.List{
+    color:rgb(83, 100, 113);
+}
+
 .cores {
     color: rgb(83, 100, 113);
 }
 .cores:hover{
     border-bottom: 2px solid black;
 }
+.acoeslinks a{
+    text-decoration: none;
+    color:  rgb(83, 100, 113);
+}
+.acoeslinks :last-child:hover{
+    background: rgba(29, 155, 240, 0.1);
+    color:rgba(29, 155, 240, 1);
+    border-radius: 5px;
+    
+}
+.acoeslinks :first-child:hover{
+    background: rgba(29, 155, 240, 0.1);
+    color:rgba(29, 155, 240, 1);
+    border-radius: 5px;
+    
+}
+.Ret:hover{
+    background: rgba(0, 186, 124, 0.1);
+    color:rgba(0, 186, 124, 1);
+    border-radius: 5px;
+}
+
+.like:hover{
+    background: rgba(249, 24, 128, 0.1);
+    color: rgba(249, 24, 128, 1);
+    border-radius: 5px;
+}
+.acoeslinks a:hover{
+    border-bottom: 1px solid black;
+}
+.text{
+    color:rgb(15, 20, 25);
+}
+.usuario:hover{
+    background-color: rgba(249, 24, 128, 0.1);
+}
+
+
+
