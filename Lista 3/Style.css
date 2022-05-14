@@ -26,8 +26,27 @@ body{
     list-style: none;  
 
 }
+.select li{
+    padding-left : 10px;
+}
+
+.links-principal a{
+    text-decoration: none;
+    padding : 10px 25px;
+    color : rgb(83, 100, 113);
+}
+
+.links-principal a:hover{
+    background-color : rgb(83, 100, 113);
+    color : white;
+}
+
+.cor {
+    background-color:rgb(239, 243, 244);
+}
+
 .List{
-    color:rgb(83, 100, 113);
+    color: rgb(83, 100, 113);
 }
 
 .cores {
