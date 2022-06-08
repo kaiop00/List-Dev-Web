@@ -104,4 +104,21 @@ body{
 }
 
 
+#exp a{
+    padding-top: 10px;
+    background:rgb(29, 155, 240);
+    border-radius: 5px;
+    text-decoration: none;
+}
+#test{
+    margin-right: 10px;
+}
+#teste{
+    margin-right: 50;
+}
+#separacao{
+    padding-left: 260px;
+}
+
+
 
