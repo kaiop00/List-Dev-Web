@@ -113,69 +113,19 @@ body{
     border-radius: 5px;
     text-decoration: none;
 }
-#teste1 {
+
+.hover-blue {
     margin-right: 10px;
     padding : 5px;
-    
+    transition: 0.2s ease;
 }
-#teste2 {
-    margin-right: 10px;
-    padding : 5px;
-    
-}
-#teste3 {
-    margin-right: 10px;
-    padding : 5px;
-    
-}
-#teste4 {
-    margin-right: 10px;
-    padding : 5px;
-    
-}
-#teste5 {
-    margin-right: 10px;
-    padding : 5px;
-    
-}
-#teste6 {
-    margin-right: 10px;
-    padding : 5px;
-    
-}
-#teste1:hover{
+
+.hover-blue:hover{
     background-color:rgb(29, 155, 240);
     border-radius: 5px;
-
-}
-#teste2:hover{
-    background-color:rgb(29, 155, 240);
-    border-radius: 5px;
-
+    color: white;
 }
 
-#teste3:hover{
-    background-color:rgb(29, 155, 240);
-    border-radius: 5px;
-
-}
-
-#teste4:hover{
-    background-color:rgb(29, 155, 240);
-    border-radius: 5px;
-
-}
-
-#teste5:hover{
-    background-color:rgb(29, 155, 240);
-    border-radius: 5px;
-
-}
-#teste6:hover{
-    background-color:rgb(29, 155, 240);
-    border-radius: 5px;
-
-}
 #separacao{
     padding-left: 10px;
     
@@ -190,6 +140,18 @@ body{
     opacity: 0;
 }
 
+#ctd.yellow {
+    color: rgb(255, 200, 0);
+}
 
+#ctd.red {
+    color: rgb(255, 0, 0);
+}
 
+#ctdModal.yellow {
+    color: rgb(255, 200, 0);
+}
 
+#ctdModal.red {
+    color: rgb(255, 0, 0);
+}
